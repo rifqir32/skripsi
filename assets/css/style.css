@@ -1,0 +1,11 @@
+.gambar_relawan{
+	height: 50px;
+	opacity: 0.5;
+
+}
+a:hover  .gambar_relawan{
+	height: 50px;
+	opacity: 1;
+	transition:0.5s;
+
+}
